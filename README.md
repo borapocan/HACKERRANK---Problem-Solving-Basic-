@@ -1,6 +1,6 @@
 # HackerRank Problem Solving Basic
 
-![made-with-C#](https://img.shields.io/badge/Made%20with-C#-1f425f.svg)
+![made-with-C#](https://img.shields.io/badge/Made%20with-c-1f425f.svg)
 
 22 Nov 2020
 
